@@ -4,6 +4,8 @@ SnippetManager is a web application built using the MERN stack (MongoDB, Express
 
 ## Walkthrough Video
 
+Deployed Link :https://codemanagermedia.herokuapp.com/
+
 ![Watch the Walkthrough Video](./client/src/assets/ReactApp.gif)
 
 ## Features
